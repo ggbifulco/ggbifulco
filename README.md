@@ -76,7 +76,7 @@ Advanced ML Engineer with 3+ years of experience delivering end-to-end machine l
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ggbifulco&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=6b001a&icon_color=990024&text_color=ffffff&hide_border=true&rank_icon=github" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ggbifulco&show_icons=true&bg_color=0D1117&title_color=6b001a&icon_color=990024&text_color=ffffff&hide_border=true" width="60%" />
 
 </div>
 
