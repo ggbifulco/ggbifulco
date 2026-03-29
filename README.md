@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6b001a&height=200&section=header&text=Giuseppe%20Gerardo%20Bifulco&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Advanced%20Machine%20Learning%20Engineer&descAlignY=60&descSize=18&descColor=ffcccc)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6b001a&height=200&section=header&text=Giuseppe%20Gerardo%20Bifulco&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Advanced%20Machine%20Learning%20Engineer&descAlignY=60&descSize=18&descColor=ffcccc" width="100%" />
 
 <div align="center">
 
@@ -111,4 +111,4 @@ Outside of production ML, I explore the evolving world of **LLMs, AI agents, and
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=6b001a&height=130&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6b001a&height=130&section=footer" width="100%" />
