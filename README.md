@@ -1,6 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=6b001a&height=200&section=header&text=Giuseppe%20Gerardo%20Bifulco&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Advanced%20Machine%20Learning%20Engineer&descAlignY=60&descSize=18&descColor=ffcccc)
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=6B001A&center=true&vCenter=true&width=700&lines=Giuseppe+Gerardo+Bifulco;Advanced+Machine+Learning+Engineer;MLOps+%7C+Computer+Vision+%7C+AI+Research" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=900&color=6B001A&center=true&vCenter=true&width=650&lines=MLOps+%7C+Computer+Vision+%7C+Scientific+ML+Research;End-to-end+systems+that+ship+to+production;Team+leader+%7C+Scientific+co-author+%7C+AI+enthusiast" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -16,21 +18,41 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ggbifulco&color=6b001a&style=flat-square&label=Profile+Views)
+
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-Advanced ML Engineer with 3+ years of experience delivering end-to-end machine learning systems — from dataset engineering and model training to automated pipelines, production deployment, and MLOps. I've worked across computer vision, scientific ML research, and optimization systems, and I've led teams on projects that reached the research community.
+<table>
+<tr>
+<td width="55%" valign="top">
 
-| | |
-|---|---|
-| 🤖 **Machine Learning** | Computer Vision (YOLO), regression & generative models, full ML lifecycle |
-| ⚙️ **MLOps** | Automated pipelines (Airflow), experiment tracking (MLflow), versioning (DVC) |
-| 🔬 **Research** | Co-author of a scientific paper on molecular property prediction for CO₂ catalysis |
-| 🌱 **Interests** | LLM applications, AI agents, RAG systems, GenAI in production |
-| 🎓 **Education** | MSc Computer Engineering — AI Curriculum · 110/110 *cum laude* · UniSalerno |
+Advanced ML Engineer with **3+ years** building end-to-end machine learning systems in production.
+
+I've worked across **computer vision**, **scientific ML research**, and **optimization systems** — handling everything from raw data to deployed models. I've led teams and contributed to peer-reviewed research published in collaboration with Italian universities.
+
+Outside of production ML, I explore the evolving world of **LLMs, AI agents, and RAG architectures** — because the frontier moves fast and I intend to stay on it.
+
+> *"Build systems that survive contact with reality."*
+
+</td>
+<td width="45%" valign="top">
+
+🤖 &nbsp; **Computer Vision** — YOLO, object detection & classification
+⚙️ &nbsp; **MLOps** — Airflow, MLflow, DVC
+🧪 &nbsp; **Research** — molecular property prediction, CO₂ catalysis
+🔌 &nbsp; **Backend** — FastAPI microservices, PostGIS, SQL
+🌱 &nbsp; **Exploring** — LLM, AI agents, RAG, GenAI in production
+🎓 &nbsp; **MSc AI Curriculum** — 110/110 *cum laude*, UniSalerno
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -67,23 +89,14 @@ Advanced ML Engineer with 3+ years of experience delivering end-to-end machine l
 
 ---
 
-## 📊 Stats
+## 📈 Activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ggbifulco&theme=github-dark-blue&hide_border=true&stroke=6b001a&ring=6b001a&fire=990024&currStreakLabel=ffffff&background=0D1117" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggbifulco&layout=compact&theme=github_dark&bg_color=0D1117&title_color=6b001a&text_color=ffffff&hide_border=true" width="49%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ggbifulco&show_icons=true&bg_color=0D1117&title_color=6b001a&icon_color=990024&text_color=ffffff&hide_border=true" width="60%" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ggbifulco&bg_color=0D1117&color=6b001a&line=990024&point=ffffff&area=true&area_color=6b001a&hide_border=true)
 
 </div>
 
 ---
 
-<div align="center">
-
-*"Build systems that survive contact with reality."*
-
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6b001a&height=130&section=footer)
