@@ -8,16 +8,14 @@
   <a href="mailto:bifulcogiuseppegerardo@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/b-email.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/b-email-light.svg" /><img src="assets/b-email-light.svg" alt="Email" height="44" /></picture></a>
 </p>
 
-ML engineer with **3+ years** taking models from raw data to deployed services, currently at **NTT DATA**. I work across computer vision, MLOps and scientific ML research — leading teams and co-authoring peer-reviewed work with Italian universities — and I write about the AI frontier on [Future Intelligence](https://futureintelligence.space).
+ML engineer with **3+ years** taking models from raw data to deployed services, currently at **NTT DATA**. I work across computer vision, MLOps and scientific ML research — leading teams and co-authoring research with Italian universities — and I write about the AI frontier on [Future Intelligence](https://futureintelligence.space).
 
 <br />
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/s-work.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/s-work-light.svg" /><img src="assets/s-work-light.svg" alt="Selected work" width="100%" /></picture>
 
 <a href="https://github.com/ggbifulco/VisionFlow"><img src="assets/card-visionflow.svg" alt="VisionFlow — real-time video intelligence" width="49.5%" /></a>
-<img src="assets/card-research.svg" alt="CO2 catalysis — molecular property prediction, paper in submission" width="49.5%" />
 <a href="https://futureintelligence.space"><img src="assets/card-fi.svg" alt="Future Intelligence — AI journal and portfolio" width="49.5%" /></a>
-<img src="assets/card-prod.svg" alt="Production ML — pipelines, tracking and versioning" width="49.5%" />
 
 <br /><br />
 
@@ -33,7 +31,16 @@ ML engineer with **3+ years** taking models from raw data to deployed services, 
 
 <p align="right"><a href="https://futureintelligence.space/articles">All articles →</a></p>
 
-<sub>MSc Computer Engineering (AI curriculum) · 110/110 cum laude · University of Salerno</sub>
+<br />
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/s-education.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/s-education-light.svg" /><img src="assets/s-education-light.svg" alt="Education" width="100%" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/education.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/education-light.svg" /><img src="assets/education-light.svg" alt="MSc Computer Engineering, AI curriculum — University of Salerno — 110/110 cum laude" width="100%" /></picture>
+
+<br /><br />
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/s-publications.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/s-publications-light.svg" /><img src="assets/s-publications-light.svg" alt="Publications" width="100%" /></picture>
+<a href="https://arxiv.org/abs/2607.26925"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-1.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/p-1-light.svg" /><img src="assets/p-1-light.svg" alt="Sparse Quantum Voxel Encoding for Readout-Efficient Molecular Geometry Reconstruction on NISQ Devices — arXiv, 2026" width="100%" /></picture></a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6790363"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-2.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/p-2-light.svg" /><img src="assets/p-2-light.svg" alt="Machine Learning Accelerated Design of Metallosalen Homogeneous Catalysts for CO2 Capture and Conversion — SSRN, 2026" width="100%" /></picture></a>
 
 <br /><br />
 
