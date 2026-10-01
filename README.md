@@ -34,7 +34,7 @@ ML engineer with **3+ years** taking models from raw data to deployed services, 
 <br />
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/s-education.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/s-education-light.svg" /><img src="assets/s-education-light.svg" alt="Education" width="100%" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/education.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/education-light.svg" /><img src="assets/education-light.svg" alt="MSc Computer Engineering, AI curriculum — University of Salerno — 110/110 cum laude" width="100%" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/education.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/education-light.svg" /><img src="assets/education-light.svg" alt="MSc Computer Engineering, AI curriculum, University of Salerno, 110/110 cum laude. BSc Computer Engineering, University of Salerno, 110/110 cum laude. Liceo Scientifico diploma, 100/100." width="100%" /></picture>
 
 <br /><br />
 
