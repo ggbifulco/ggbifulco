@@ -1,47 +1,40 @@
 <a href="https://futureintelligence.space">
-  <img src="https://futureintelligence.space/opengraph-image" alt="Future Intelligence — Giuseppe Gerardo Bifulco" width="100%" />
+  <img src="assets/header.svg" alt="Giuseppe Gerardo Bifulco — designing and building AI systems that work in the real world" width="100%" />
 </a>
 
-### Hi, I'm Giuseppe — I build machine learning systems that make it to production.
+<p>
+  <a href="https://futureintelligence.space"><img src="assets/b-portfolio.svg" alt="Portfolio" height="44" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ggbifulco"><img src="assets/b-linkedin.svg" alt="LinkedIn" height="44" /></a>&nbsp;
+  <a href="mailto:bifulcogiuseppegerardo@gmail.com"><img src="assets/b-email.svg" alt="Email" height="44" /></a>
+</p>
 
-ML engineer with 3+ years taking models from raw data to deployed services: computer vision, MLOps pipelines and scientific ML research. Currently at **NTT DATA**. I write about what's happening at the AI frontier on **[Future Intelligence](https://futureintelligence.space)**.
+ML engineer with **3+ years** taking models from raw data to deployed services, currently at **NTT DATA**. I work across computer vision, MLOps and scientific ML research — leading teams and co-authoring peer-reviewed work with Italian universities — and I write about the AI frontier on [Future Intelligence](https://futureintelligence.space).
 
-[Portfolio](https://futureintelligence.space) · [LinkedIn](https://www.linkedin.com/in/ggbifulco) · [Email](mailto:bifulcogiuseppegerardo@gmail.com)
+<br />
 
-<br/>
+<img src="assets/s-work.svg" alt="Selected work" width="100%" />
 
-#### Selected work
+<a href="https://github.com/ggbifulco/VisionFlow"><img src="assets/card-visionflow.svg" alt="VisionFlow — real-time video intelligence" width="49.5%" /></a>
+<img src="assets/card-research.svg" alt="CO2 catalysis — molecular property prediction, paper in submission" width="49.5%" />
+<a href="https://futureintelligence.space"><img src="assets/card-fi.svg" alt="Future Intelligence — AI journal and portfolio" width="49.5%" /></a>
+<img src="assets/card-prod.svg" alt="Production ML — pipelines, tracking and versioning" width="49.5%" />
 
-| Project | What it is |
-|---|---|
-| **[VisionFlow](https://github.com/ggbifulco/VisionFlow)** | Self-hosted, real-time video intelligence: edge object detection (YOLO) plus cloud vision-language reasoning, with a live web dashboard and Telegram alerts. |
-| **CO₂ catalysis research** | Molecular property prediction for CO₂ catalysis, with Italian universities. Paper in submission. |
-| **Production ML** | End-to-end pipelines in industry: detection and classification models, automated training with Airflow, tracking with MLflow, data versioning with DVC. |
+<br /><br />
 
-#### What I work on
+<img src="assets/s-stack.svg" alt="Stack" width="100%" />
+<img src="assets/stack.svg" alt="ML: Python, PyTorch, TensorFlow, scikit-learn, Hugging Face. Vision: YOLO, OpenCV. MLOps: MLflow, DVC, Airflow, Docker, Azure. Data: pandas, NumPy, PostgreSQL, PostGIS, SQL. Serving: FastAPI. GenAI: LangChain, Ollama, RAG, agents, LLMs." width="100%" />
 
-- **Computer vision** — object detection and classification, from dataset to deployment
-- **MLOps** — reproducible pipelines, experiment tracking, model and data versioning
-- **Scientific ML** — learning on molecular and physical data
-- **Backend for ML** — FastAPI services, PostgreSQL and PostGIS
-- **GenAI** — LLMs, agents and retrieval systems, increasingly in production
+<br /><br />
 
-#### Recent writing
+<img src="assets/s-writing.svg" alt="Writing" width="100%" />
+<a href="https://futureintelligence.space/articles/jev-system-one-models"><img src="assets/w-1.svg" alt="Jev and System One Models: when AI starts deciding" width="100%" /></a>
+<a href="https://futureintelligence.space/articles/doppio-contactless-weight-estimation"><img src="assets/w-2.svg" alt="Doppio: contactless weight estimation of falling particles" width="100%" /></a>
+<a href="https://futureintelligence.space/articles/amie-disease-management"><img src="assets/w-3.svg" alt="Inside Google's AMIE: AI for disease management" width="100%" /></a>
 
-- [Jev and System One Models: when AI stops writing and starts deciding](https://futureintelligence.space/articles/jev-system-one-models)
-- [Doppio: contactless weight estimation of falling particles](https://futureintelligence.space/articles/doppio-contactless-weight-estimation)
-- [Inside Google's AMIE: conversational AI for disease management](https://futureintelligence.space/articles/amie-disease-management)
-- [All articles →](https://futureintelligence.space/articles)
+<p align="right"><a href="https://futureintelligence.space/articles">All articles →</a></p>
 
-#### Stack
+<sub>MSc Computer Engineering (AI curriculum) · 110/110 cum laude · University of Salerno</sub>
 
-```
-ml        Python · PyTorch · TensorFlow · scikit-learn · Hugging Face
-vision    YOLO · OpenCV
-mlops     MLflow · DVC · Airflow · Docker · Azure
-data      pandas · NumPy · PostgreSQL · PostGIS
-serving   FastAPI
-genai     LangChain · Ollama · RAG · agents
-```
+<br /><br />
 
-<sub>MSc Computer Engineering (AI) · 110/110 cum laude · University of Salerno</sub>
+<a href="https://futureintelligence.space"><img src="assets/footer.svg" alt="Future Intelligence — futureintelligence.space" width="100%" /></a>
